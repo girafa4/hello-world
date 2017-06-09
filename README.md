@@ -1,4 +1,2 @@
 # hello-world
-Just another repository 
-Im MEXICAN
-again
+Just another repository
